@@ -24,7 +24,7 @@ To use this script, you need to have Python installed on your system. You can do
 
 1. Clone the repository:
 
-        git clone https://github.com/yourusername/mini_markdown_to_html.git
+        git clone https://github.com/ryanlevee/mini_markdown_to_html.git
         cd mini_markdown_to_html
 
 2. Prepare your Markdown input file (e.g., input.md).
