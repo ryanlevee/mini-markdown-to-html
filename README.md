@@ -7,9 +7,13 @@ This Python script converts Markdown text into HTML. It parses the Markdown text
 ## Features
 
 **Markdown Parsing**: Converts Markdown text into a structured tree of nodes.
+
 **HTML Generation**: Renders the parsed Markdown as HTML.
+
 **Inline Tag Handling**: Supports inline tags like code snippets.
+
 **List Handling**: Processes bulleted lists.
+
 **Code Block Handling**: Supports code blocks with proper escaping of HTML characters.
 
 ## Installation
@@ -100,4 +104,3 @@ Ryan Levee
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-⸻
